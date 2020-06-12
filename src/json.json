@@ -1,0 +1,129 @@
+{
+    "lat": 40.58,
+    "lon": -74.15,
+    "timezone": "America/New_York",
+    "timezone_offset": -14400,
+    "current": {
+      "dt": 1591454852,
+      "sunrise": 1591435582,
+      "sunset": 1591489481,
+      "temp": 79.29,
+      "feels_like": 83.77,
+      "pressure": 1009,
+      "humidity": 74,
+      "dew_point": 70.29,
+      "uvi": 9.83,
+      "clouds": 40,
+      "visibility": 16093,
+      "wind_speed": 5.82,
+      "wind_deg": 280,
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ]
+    },
+    "hourly": [
+      {
+        "dt": 1591452000,
+        "temp": 79.29,
+        "feels_like": 84.02,
+        "pressure": 1009,
+        "humidity": 74,
+        "dew_point": 70.29,
+        "clouds": 40,
+        "wind_speed": 5.39,
+        "wind_deg": 257,
+        "weather": [
+          {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+          }
+        ]
+      },
+      {
+        "dt": 1591455600,
+        "temp": 78.6,
+        "feels_like": 81.5,
+        "pressure": 1009,
+        "humidity": 67,
+        "dew_point": 66.74,
+        "clouds": 60,
+        "wind_speed": 5.59,
+        "wind_deg": 258,
+        "weather": [
+          {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+          }
+        ]
+      },
+      {
+        "dt": 1591459200,
+        "temp": 80.22,
+        "feels_like": 81.61,
+        "pressure": 1008,
+        "humidity": 58,
+        "dew_point": 64.11,
+        "clouds": 74,
+        "wind_speed": 6.22,
+        "wind_deg": 264,
+        "weather": [
+          {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+          }
+        ]
+      }
+    ],
+    "daily": [
+      {
+        "dt": 1591459200,
+        "sunrise": 1591435582,
+        "sunset": 1591489481,
+        "temp": {
+          "day": 78.6,
+          "min": 70.68,
+          "max": 83.21,
+          "night": 70.68,
+          "eve": 82.94,
+          "morn": 79.29
+        },
+        "feels_like": {
+          "day": 81.5,
+          "night": 61.61,
+          "eve": 77.92,
+          "morn": 84.27
+        },
+        "pressure": 1009,
+        "humidity": 67,
+        "dew_point": 66.74,
+        "wind_speed": 5.59,
+        "wind_deg": 258,
+        "weather": [
+          {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+          }
+        ],
+        "clouds": 60,
+        "uvi": 9.83
+      }
+        ],
+        "clouds": 100,
+        "rain": 29.28,
+        "uvi": 7.77
+      }
+    ]
+  }
